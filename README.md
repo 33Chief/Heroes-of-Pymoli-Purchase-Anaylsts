@@ -1,1 +1,1 @@
-# Heroes-of-Pymoli-Purchase-Anylasts
+# Heroes-of-Pymoli-Purchase-Anaylsts
